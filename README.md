@@ -16,7 +16,7 @@ Before using the AI Research Assistant, ensure that you have the following prere
 
 - Python 3.x
 - Serper API Key (sign up at https://serper.io/)
-- Browserless account (sign up at [https://www.browserflow.co/](https://www.browserless.io/))
+- Browserless account (sign up at https://www.browserless.io/)
 - OpenAI GPT-3.5 API Key (sign up at https://beta.openai.com/signup/)
 
 ## Installation
