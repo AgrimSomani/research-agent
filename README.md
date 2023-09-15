@@ -7,7 +7,7 @@ The AI Research Assistant is a Python-based tool that streamlines the research p
 ## Features
 - Exposes a RESTful API for research queries.
 - Web scraping of relevant links using the Serper API.
-- Website content extraction using Browserflow.
+- Website content extraction using Browserless.
 - Generation of research summaries and responses using the GPT-3.5 model.
 
 ## Prerequisites
@@ -16,7 +16,7 @@ Before using the AI Research Assistant, ensure that you have the following prere
 
 - Python 3.x
 - Serper API Key (sign up at https://serper.io/)
-- Browserflow account (sign up at https://www.browserflow.co/)
+- Browserless account (sign up at [https://www.browserflow.co/](https://www.browserless.io/))
 - OpenAI GPT-3.5 API Key (sign up at https://beta.openai.com/signup/)
 
 ## Installation
